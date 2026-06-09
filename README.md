@@ -1,7 +1,11 @@
-### Hi there 👋🏻
+### Hey, I'm Antonio 👋🏻
 
-Welcome to my Github, my name is Antonio Cabezas and I really enjoy creating software 👨🏻‍💻
+A Senior Backend Engineer who genuinely loves building software 👨🏻‍💻
 
-I am currently working at [Forma](https://forma.health) as Backend developer 🎾
+I work mostly in **Go**, on distributed systems and backend infrastructure. These days I'm a backend engineer at [Forma](https://forma.health) 🎾
 
-I have a [personal website](https://antoniocabezas.com)
+#### 🛠️ Open source
+
+- **[Nimbus](https://github.com/ant-caor/nimbus)**: Cloud Run-first caching for Go. An in-process L1, a versioned Redis L2 as the source of truth, and a Pub/Sub bus that keeps per-instance caches coherent across ephemeral, autoscaling instances.
+
+🌐 [antoniocabezas.com](https://antoniocabezas.com)
